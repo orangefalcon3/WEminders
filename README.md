@@ -2,6 +2,8 @@
 
 **Please visit https://weminders.org for more information.**
 
+![](https://i0.wp.com/weminders.org/wp-content/uploads/2020/08/cropped-playstore-icon-e1596244657145.png?fit=64%2C64&ssl=1)
+
 How many times have you:
  - Forgot to take an important medication?
  - Missed an important appointment?
